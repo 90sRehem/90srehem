@@ -18,7 +18,7 @@ ___
 
 ## Backend:
 - **Languages:** C#, Javascript, Typescript
-- **Frameworks:** .NET, AdonisJS, Express.js, Nestjs
+- **Frameworks:** .NET, AdonisJS, Express.js, Nestjs, Next.js, React Native, Expo
 - **Databases:** Microsoft SQL Server, MongoDB, MySQL, PostgreSQL, Redis
 - **Cloud Services:** AWS, Azure
 - **Serverless:** AWS Lambda, Azure Functions
